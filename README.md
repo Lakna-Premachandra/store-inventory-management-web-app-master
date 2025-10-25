@@ -16,7 +16,7 @@ There are two main user roles:
 - Simple and user-friendly interface
   
 ## 🛠️ Technologies Used
-Frontend: JSP, HTML, CSS  
-Backend: Java Servlets  
-Database: MySQL  
-Server: Apache Tomcat  
+- Frontend: JSP, HTML, CSS  
+- Backend: Java Servlets  
+- Database: MySQL  
+- Server: Apache Tomcat  
